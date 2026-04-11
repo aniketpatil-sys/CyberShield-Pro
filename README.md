@@ -4,6 +4,7 @@ Follow these steps to set up the project on your local machine:
 1. Clone the Repository:
 
 Bash
+
 git clone [https://github.com/aniketpatil-sys/CyberShield-Pro.git](https://github.com/aniketpatil-sys/CyberShield-Pro.git)
 
 cd CyberShield-Pro
@@ -15,7 +16,9 @@ pip install -r requirements.txt
 
 3. Configure Environment Variables:
 
-open .env file
+Locate the .env.example file.
+
+Rename it to .env
 
 Enter your VirusTotal API Key.
 
