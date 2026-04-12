@@ -34,6 +34,9 @@ Bash
 python app.py
 The application will start at: http://localhost:5000
 
+open admin panel and go to model control and retrain your model
+Admin panel will start at: http://localhost:5000/admin
+
 
 📊 Technical Stack
 Backend: Python, Flask
