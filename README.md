@@ -19,9 +19,9 @@ pip install -r requirements.txt
 
 3. Configure Environment Variables:
 
-Locate the .env.example file.
+Locate the env.pdf file.
 
-Rename it to .env
+Open with Notepad and File name: .env | Saveas type: All files and save 
 
 Enter your VirusTotal API Key.
 
